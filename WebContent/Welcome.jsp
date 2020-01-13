@@ -4,13 +4,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link type="text/css"  ></link> <link rel="stylesheet" type="text/css" href="css\styles.css">
-<meta charset="ISO-8859-1">
-<title>Willkomme</title>
+	<link rel="stylesheet" type="text/css" href="css\styles.css">
+	<meta charset="ISO-8859-1">
+	<title>Willkomme</title>
 </head>
 <body>
 	
 	<% 
+	
 		String purpose = request.getParameter("purpose");	
 		String name = request.getParameter("uname");
 		String age = request.getParameter("age");

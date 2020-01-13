@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
-<title>Formulär</title>
-<link type="text/css"  ></link> <link rel="stylesheet" type="text/css" href="css\styles.css">
+	<meta charset="ISO-8859-1">
+	<title>Formulär</title>
+	<link rel="stylesheet" type="text/css" href="css\styles.css">
 </head>
 <body>
 	<div class = "formula">
